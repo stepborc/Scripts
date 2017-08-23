@@ -1,5 +1,5 @@
 # Why forking
-I'll working with older images from a1d3s. It's necessary because newer kernels have a problem with my tvheadend installation. The "continous errors" will increase with newer kernel annormal.
+I'm working with older images from a1d3s. It's necessary because newer kernels have a problem with my tvheadend installation. The "continous errors" will increase with newer kernel abnormal.
 
 # Scripts
 Scripts for Debian Image
